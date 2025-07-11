@@ -18,3 +18,6 @@ Breakify consists of multiple independent services:
 | Android App | [breakify-android-releases](https://github.com/Estimp/breakify-android-releases/tree/main) | Compiled APK releases |
 | API Service | [breakify-service](https://github.com/Estimp/breakify-service) | Back-end RESTful API |
 | **MQTT Message Consumer** | **This repository** | Subscribes and processes MQTT messages |
+
+## License
+This software is proprietary. See [LICENSE](./LICENSE.md) for details.
