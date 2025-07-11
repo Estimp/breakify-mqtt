@@ -1,3 +1,5 @@
+# Breakify - MQTT Consumer
+
 This repository contains two .exe files: one that launches with a console to display the logs, and another that runs without showing the console.
 
 If you want to modify the project, the source code is also included in the repository so you can download and customize it.
